@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "MeshCentral plugin that allows selecting and listening to microphones",
   "main": "src/plugin.js",
+  "meshCentralCompat": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usernamecannotbeblankisnotavaliable/meshcentral-mic-listen-plugin.git"
+  },
+  "homepage": "https://github.com/usernamecannotbeblankisnotavaliable/meshcentral-mic-listen-plugin",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +19,7 @@
     "audio",
     "listen"
   ],
-  "author": "",
+  "author": "usernamecannotbeblankisnotavaliable",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.0"
