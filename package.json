@@ -1,0 +1,21 @@
+{
+  "name": "meshcentral-mic-listen-plugin",
+  "version": "1.0.0",
+  "description": "MeshCentral plugin that allows selecting and listening to microphones",
+  "main": "src/plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "meshcentral",
+    "plugin",
+    "microphone",
+    "audio",
+    "listen"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
